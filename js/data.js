@@ -3,7 +3,7 @@ var unescoData = [
     "name": "Cahokia Mounds State Historic Site",
     "longitude": -90.0618,
     "latitude": 38.6551,
-    "pic": "https://travelguide.michelin.com/sites/default/files/styles/poi_slideshow/public/images/travel_guide/voyage_media-NX-19770/cahokia-mounds-state-historic-site.jpg",
+    "pic": "https://d9lvdmmwvuqi1.cloudfront.net/uploads/production/document/picture/9/thumb_416x/place-cahokia-mounds-state-historic-site.jpg",
   },
   {
     "name": "Chaco Canyon",
@@ -15,7 +15,7 @@ var unescoData = [
     "name": "Independence Hall",
     "longitude": -75.1500,
     "latitude": 39.9489,
-    "pic": "https://a.wattpad.com/useravatar/Wonder_Woman37.256.548529.jpg",
+    "pic": "https://live.staticflickr.com/8637/16734854905_720615f236_b.jpg",
   },
   {
     "name": "Sitio Histórico de San Juan",
@@ -51,7 +51,7 @@ var unescoData = [
     "name": "Statue of Liberty",
     "longitude": -74.0466891,
     "latitude": 40.6892494,
-    "pic": "https://news.artnet.com/app/news-upload/2016/08/statue-of-liberty-steve-parker-flickr-256x256.jpg",
+    "pic": "https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY1MTc1MTk3ODIzOTM2MDcz/topic-statue-of-liberty-gettyimages-960610006-feature.jpg",
   },
   {
     "name": "Taos Pueblo",
@@ -63,25 +63,25 @@ var unescoData = [
     "name": "Fallingwater by Frank Lloyd Wright",
     "longitude": -79.4701313,
     "latitude": 39.9062419,
-    "pic": "https://apprecs.org/ios/images/app-icons/256/13/485805331.jpg",
+    "pic": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555285987/shape/mentalfloss/fallingwaterhed-509493320.jpg?itok=bqzW1Ndt",
   },
   {
     "name": "Carlsbad Caverns National Park",
     "longitude": -104.673366,
     "latitude": 32.1221389,
-    "pic": "https://www.nocoastbestcoast.com/images/carlsbad-caverns-big-room-3-thumb.jpg",
+    "pic": "https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Carlsbad-Caverns-National-Park.jpg",
   },
   {
     "name": "Everglades National Park",
     "longitude": -81.3647464,
     "latitude": 25.6643617,
-    "pic": "https://www.outsideonline.com/sites/default/files/styles/img_600x600/public/2019/04/15/everglades-national-park_s.jpg?itok=B8i2D4iP",
+    "pic": "https://www.tripsavvy.com/thmb/waYf6k6icidA3Uiugva2lj4ZEqY=/3862x2172/smart/filters:no_upscale()/sunset-at-pa-hay-okee-overlook--everglades-national-park--florida-627964952-5adfbb0b8e1b6e00378fa575.jpg",
   },
   {
     "name": "Grand Canyon National Park",
     "longitude": -113.4036224,
     "latitude": 36.0911044,
-    "pic": "https://anthonyobrian.files.wordpress.com/2017/06/img_0766-quick-preset_5184x34561.jpg?w=256&h=256&crop=1",
+    "pic": "https://ewscripps.brightspotcdn.com/dims4/default/5a64170/2147483647/strip/true/crop/3000x1688+0+172/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0b%2F77%2F2d7dc37a4c59ba8a3f9e2709d4e9%2Fgrand-canyon-deaths-shutterstock-via-cnn-040519.JPG",
   },
   {
     "name": "Great Smoky Mountains National Park",
@@ -111,19 +111,19 @@ var unescoData = [
     "name": "Olympic National Park",
     "longitude": -124.2006461,
     "latitude": 47.7844309,
-    "pic": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/75/19/f5/7519f543-7ac6-83ad-316a-1569e0a29386/source/256x256bb.jpg",
+    "pic": "https://blog-assets.thedyrt.com/uploads/2019/04/shutterstock_93808600-1-2000x1120.jpg",
   },
   {
     "name": "Redwood National and State Parks",
     "longitude": -124.5833697,
     "latitude": 41.434848,
-    "pic": "https://cdn57.picsart.com/167445628000202.jpeg?type=webp&to=crop&r=256",
+    "pic": "https://www.nationalgeographic.com/content/dam/travel/2019-digital/redwood-national-park/woman-on-sequoia.jpg",
   },
   {
     "name": "Waterton Glacier International Peace Park",
     "longitude": -113.9188554,
     "latitude": 49.0833333,
-    "pic": "https://i.pinimg.com/474x/d9/80/6f/d9806f35920fb10915fd1b10d99f7c56.jpg",
+    "pic": "https://lh3.googleusercontent.com/proxy/rh3UgwLWeWWCyPAU9hSG-hSQUXIUdkX5q6YnKbaBoN6UDFgFFWgV85ZgoloHOcJCPfp-KQeZqQKrZoKHiBCdAPqEnuRrCEneQ-V8mKaKUfQWjLDsTCd5PSeIPeZK8g",
   },
   {
     "name": "Yellowstone National Park",
@@ -141,7 +141,7 @@ var unescoData = [
     "name": "Papahānaumokuākea",
     "longitude": -179.1810164,
     "latitude": 25.4610218,
-    "pic": "https://pbs.twimg.com/profile_images/610678961773752320/2ix2mNyZ_400x400.jpg",
+    "pic": "https://www.papahanaumokuakea.gov/images/about/mmm_wlevin.jpg",
   },
 ]
 

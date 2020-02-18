@@ -25,7 +25,7 @@ unescoData.forEach(function(unescoSite) {
   new mapboxgl.Marker()
     .setLngLat([unescoSite.longitude, unescoSite.latitude])
     .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
-    .setHTML(`${unescoSite.name} <div><img src="${unescoSite.pic}"></div>`))
+    .setHTML(`${unescoSite.name} <div><img class="pic" src="${unescoSite.pic}"></div>`))
     .addTo(map);
 })
 

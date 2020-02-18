@@ -38,7 +38,7 @@ h3 {
 /* on hover, make the background darker and turn the cursor to a pointer */
 button:hover {
   cursor: pointer;
-  background-color: #bca0dc;
+  background-color: #52307c;
 }
 
 /* sidebar is fixed with and positioned to the left */
@@ -48,17 +48,17 @@ button:hover {
   top: 0;
   bottom: 0;
   width: 300px;
-  background-color: #52307c;
-  color: #FFF;
+  background-color: #bca0dc;
+  color: #52307c;
   padding: 25px;
   box-sizing: border-box;
 }
 
 /* pop up qualities */
 .mapboxgl-popup {
-max-width: 200px;
+  width: 300px;
 }
 
 .pic {
-  width: 50px
+  width: 250px
 }
