@@ -53,3 +53,12 @@ button:hover {
   padding: 25px;
   box-sizing: border-box;
 }
+
+/* pop up qualities */
+.mapboxgl-popup {
+max-width: 200px;
+}
+
+.pic {
+  width: 50px
+}
