@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset='utf-8' />
+      <title>🌎UNESCO Sites🌎</title>
+      <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.css' rel='stylesheet' />
+      <link href='css/styles.css' rel='stylesheet' />
+  </head>
+  <body>
+
+    <div id='sidebar'>
+    <h3>🌎 UNESCO World Heritage Sites in the USA 🌎</h3>
+
+    <p>📍Click a marker to see a World Heritage site in the United States.</p>
+
+    <hr/>
+
+    <p> Click the buttons below to fly around the USA.</p>
+
+    <br/>
+    <!-- Buttons for flying around the map -->
+    <button class='flyto-button' id="west">✈️ West Coast</button>
+    <br/>
+
+    <button class='flyto-button' id="hawaii">✈️ Hawaii</button>
+    <br/>
+
+    <button class='flyto-button' id="east">✈️ East Coast</button>
+    <br/>
+
+    <button class='flyto-button' id="south">✈️ South</button>
+
+    <button class='flyto-button' id="return">✈️ Return to full USA view</button>
+</div>
+
+    <!-- this is the map container, which will hold the mapboxGL map -->
+    <div id='map-container'></div>
+
+    <!-- Load mapboxGL, jQuery, then our local javascript files -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js'></script>
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.min.js"
+      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+      crossorigin="anonymous"></script>
+    <script src='js/data.js'></script>
+    <script src='js/scripts.js'></script>
+
+  </body>
+</html>
