@@ -123,7 +123,7 @@ var unescoData = [
     "name": "Waterton Glacier International Peace Park",
     "longitude": -113.9188554,
     "latitude": 49.0833333,
-    "pic": "https://lh3.googleusercontent.com/proxy/rh3UgwLWeWWCyPAU9hSG-hSQUXIUdkX5q6YnKbaBoN6UDFgFFWgV85ZgoloHOcJCPfp-KQeZqQKrZoKHiBCdAPqEnuRrCEneQ-V8mKaKUfQWjLDsTCd5PSeIPeZK8g",
+    "pic": "https://media-cdn.tripadvisor.com/media/photo-s/02/c2/e2/56/waterton-glacier-international.jpg",
   },
   {
     "name": "Yellowstone National Park",
